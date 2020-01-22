@@ -7,13 +7,17 @@ using System.IO;
 
 public class PlayerManager : MonoBehaviour
 {
-    public static string model_dir = @"C:\Users\ll00931\Documents\Datasets\VR_sketch\chair";
-    public static string save_dir = @"C:\Users\ll00931\Documents\Datasets\VR_sketch";
+    //Default settings for debugging vrpaint scene, you need replace them with your paths
+    public static string model_dir = @"..\demo_dataset";
+    public static string save_dir = @"..\demo_savedir";
+    public static string namelist_path = @"..\demo_namelist.txt";
+
     public static string player_id = "Sketcher";
     public static string model_id;
-    public static string namelist_path = @"C:\Users\ll00931\Documents\Datasets\VR_sketch\namelist\subset3.txt";
     public static int index = 0;
-    public static float countdown = 5;
+    
+    //Default countdown time is 30 seconds
+    public static float countdown = 30;
 
     public List<string> namelist;
     public TextMeshProUGUI username;
