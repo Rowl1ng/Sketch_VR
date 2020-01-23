@@ -6,7 +6,11 @@ Sketch VR is designed to collect 3D sketch data from players. It has three main 
 2. Sketch in VR.
 3. Save sketch, combination of sketch and model.
 
+![Jan-23-2020 13-30-49.gif-3171.3kB][1]
+
 It is not only a VR painting game like Quill, it can also be used for viewing 3D models (For example, VR online shopping for furnitures!). If you are interested, it can be further developed into a 3D prototyping tool after adding editing function.
+
+![Jan-23-2020 13-35-06.gif-1365.9kB][2]
 
 ## Requirements
 
@@ -37,11 +41,13 @@ More information about development is on my blog: https://rowl1ng.com/blog/tech/
 
 ## Acknowledgement
 
-- [Unity VR Tutorial: How To Build Tilt Brush From Scratch][1]
-- [Building a Simple Color Picker from Scratch][2]
-- [3D-VR-Painting][3]
+- [Unity VR Tutorial: How To Build Tilt Brush From Scratch][3]
+- [Building a Simple Color Picker from Scratch][4]
+- [3D-VR-Painting][5]
 
 
-  [1]: https://www.youtube.com/watch?v=eMJATZI0A7c
-  [2]: https://www.youtube.com/watch?v=wysIsMEQ3_Y
-  [3]: https://github.com/E-BAO/3D-VR-Painting
+  [1]: http://static.zybuluo.com/sixijinling/1jxlgdq7c26tudqyqiyn83nm/Jan-23-2020%2013-30-49.gif
+  [2]: http://static.zybuluo.com/sixijinling/e5fsxqs3fbj32qg8k8lrsx58/Jan-23-2020%2013-35-06.gif
+  [3]: https://www.youtube.com/watch?v=eMJATZI0A7c
+  [4]: https://www.youtube.com/watch?v=wysIsMEQ3_Y
+  [5]: https://github.com/E-BAO/3D-VR-Painting
