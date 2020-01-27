@@ -6,7 +6,7 @@ Sketch VR is designed to collect 3D sketch data from players. It has three main 
 
 1. Load 3D models from given directory and display it in game on runtime. 
 
-<div align=center>![Jan-23-2020 13-35-06.gif-1365.9kB](imgs/Jan-23-2020%2013-35-06.gif)</div>   
+<div align=center><img src="imgs/Jan-23-2020%2013-35-06.gif"/></div>   
 
 2. Sketch in VR.
 
