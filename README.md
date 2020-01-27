@@ -6,11 +6,11 @@ Sketch VR is designed to collect 3D sketch data from players. It has three main 
 
 1. Load 3D models from given directory and display it in game on runtime. 
 
-<div align=center>![Jan-23-2020 13-35-06.gif-1365.9kB](imgs/Jan-23-2020%2013-35-06.gif)
+<div align=center>![Jan-23-2020 13-35-06.gif-1365.9kB](imgs/Jan-23-2020%2013-35-06.gif)</div>   
 
 2. Sketch in VR.
 
-<div align=center>![Jan-23-2020 13-30-49.gif-3171.3kB](imgs/Jan-23-2020%2013-30-49.gif)
+<div align=center>![Jan-23-2020 13-30-49.gif-3171.3kB](imgs/Jan-23-2020%2013-30-49.gif)</div>   
 
 3. Save sketch, combination of sketch and model.
 
@@ -41,7 +41,7 @@ public static string namelist_path = @"..\demo_namelist.txt";
 
 ### How to play?
 
-![instruction][4]
+<div align=center>![instruction][4]</div>   
 
 ## Contributing
 
