@@ -2,7 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-#/demo_savedir/*
+/demo_savedir/*
 
 [Ll]ibrary/
 [Tt]emp/

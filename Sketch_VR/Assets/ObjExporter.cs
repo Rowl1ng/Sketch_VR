@@ -425,7 +425,7 @@ public class ObjExporter : MonoBehaviour
             }
         }
 
-        Debug.LogError("Objects exported: " + "Exported " + exportedObjects + " objects to " + filename + " with " + PointsList.Count + "points.");
+        Debug.Log("Objects exported: " + "Exported " + exportedObjects + " objects to " + filename + " with " + PointsList.Count + "points.");
 
 
         
@@ -464,7 +464,7 @@ public class ObjExporter : MonoBehaviour
             filter_list.AddRange(meshfilter_obj);
             //MeshesToFile(meshfilter_obj, folder, filename + "_ref");
             MeshesToFile(filter_list.ToArray(), folder, filename + "_ref");
-            Debug.LogError("Save Reference into OBJ: " + reference[0].name);
+            Debug.Log("Save Reference into OBJ: " + reference[0].name);
 
             //Delete Meshes of Lines
             GameObject[] delete = GameObject.FindGameObjectsWithTag("Mesh_Line");
@@ -495,7 +495,7 @@ public class ObjExporter : MonoBehaviour
             }
 
         }
-        Debug.LogError("Timestamps exported to " + filename + "_timestamp.txt" + " with " + all_timestamps.Count + " strokes and " + point_num + " points.");
+        Debug.Log("Timestamps exported to " + filename + "_timestamp.txt" + " with " + all_timestamps.Count + " strokes and " + point_num + " points.");
 
     }
 }
