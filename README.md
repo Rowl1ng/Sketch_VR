@@ -5,9 +5,13 @@
 Sketch VR is designed to collect 3D sketch data from players. It has three main functions:
 
 1. Load 3D models from given directory and display it in game on runtime. 
+
 ![Jan-23-2020 13-35-06.gif-1365.9kB][3]
+
 2. Sketch in VR.
+
 ![Jan-23-2020 13-30-49.gif-3171.3kB][2]
+
 3. Save sketch, combination of sketch and model.
 
 It is not only a VR painting game like Quill, it can also be used for viewing 3D models (For example, VR online shopping for furnitures!). If you are interested, it can be further developed into a 3D prototyping tool after adding editing function.
