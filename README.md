@@ -10,13 +10,13 @@ Sketch VR is designed to collect 3D sketch data from players. It has three main 
 
 2. Sketch in VR.
 
-<div align=center>![Jan-23-2020 13-30-49.gif-3171.3kB](imgs/Jan-23-2020%2013-30-49.gif)</div>   
+<div align=center><img src="imgs/Jan-23-2020%2013-30-49.gif"/></div>   
 
 3. Save sketch, combination of sketch and model.
 
 It is not only a VR painting game like Quill, it can also be used for viewing 3D models (For example, VR online shopping for furnitures!). If you are interested, it can be further developed into a 3D prototyping tool after adding editing function.
 
-<div align=center>![scene][1]
+<div align=center><img src="imgs/scene.PNG"/></div>  
 
 ## Requirements
 
@@ -41,7 +41,7 @@ public static string namelist_path = @"..\demo_namelist.txt";
 
 ### How to play?
 
-<div align=center>![instruction][4]</div>   
+<div align=center><img src="http://static.zybuluo.com/sixijinling/olif621bse940kc27egig9mm/D436FCE8-A98B-4E5F-BC3E-16FFE8B7AD4A_1_201_a.jpeg"/></div>  
 
 ## Contributing
 
@@ -54,8 +54,6 @@ More information about development is on my blog: https://rowl1ng.com/blog/tech/
 - [3D-VR-Painting][7]
 
 
-  [1]: imgs/scene.PNG
-  [4]: http://static.zybuluo.com/sixijinling/olif621bse940kc27egig9mm/D436FCE8-A98B-4E5F-BC3E-16FFE8B7AD4A_1_201_a.jpeg
   [5]: https://www.youtube.com/watch?v=eMJATZI0A7c
   [6]: https://www.youtube.com/watch?v=wysIsMEQ3_Y
   [7]: https://github.com/E-BAO/3D-VR-Painting
