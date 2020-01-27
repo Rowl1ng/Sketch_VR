@@ -6,11 +6,11 @@ Sketch VR is designed to collect 3D sketch data from players. It has three main 
 
 1. Load 3D models from given directory and display it in game on runtime. 
 
-![Jan-23-2020 13-35-06.gif-1365.9kB][3]
+![Jan-23-2020 13-35-06.gif-1365.9kB][imgs/Jan-23-2020 2013-35-06.gif]
 
 2. Sketch in VR.
 
-![Jan-23-2020 13-30-49.gif-3171.3kB][2]
+![Jan-23-2020 13-30-49.gif-3171.3kB][imgs/Jan-23-2020 2013-30-49.gif]
 
 3. Save sketch, combination of sketch and model.
 
@@ -57,8 +57,6 @@ More information about development is on my blog: https://rowl1ng.com/blog/tech/
 
 
   [1]: http://static.zybuluo.com/sixijinling/az5zki5jecwi1srrchai0939/scene.PNG
-  [2]: imgs/Jan-23-2020 2013-30-49.gif
-  [3]: imgs/Jan-23-2020 2013-35-06.gif
   [4]: http://static.zybuluo.com/sixijinling/olif621bse940kc27egig9mm/D436FCE8-A98B-4E5F-BC3E-16FFE8B7AD4A_1_201_a.jpeg
   [5]: https://www.youtube.com/watch?v=eMJATZI0A7c
   [6]: https://www.youtube.com/watch?v=wysIsMEQ3_Y
