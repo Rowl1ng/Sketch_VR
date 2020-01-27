@@ -6,17 +6,17 @@ Sketch VR is designed to collect 3D sketch data from players. It has three main 
 
 1. Load 3D models from given directory and display it in game on runtime. 
 
-![Jan-23-2020 13-35-06.gif-1365.9kB](imgs/Jan-23-2020%2013-35-06.gif)
+<div align=center>![Jan-23-2020 13-35-06.gif-1365.9kB](imgs/Jan-23-2020%2013-35-06.gif)
 
 2. Sketch in VR.
 
-![Jan-23-2020 13-30-49.gif-3171.3kB](imgs/Jan-23-2020%2013-30-49.gif)
+<div align=center>![Jan-23-2020 13-30-49.gif-3171.3kB](imgs/Jan-23-2020%2013-30-49.gif)
 
 3. Save sketch, combination of sketch and model.
 
 It is not only a VR painting game like Quill, it can also be used for viewing 3D models (For example, VR online shopping for furnitures!). If you are interested, it can be further developed into a 3D prototyping tool after adding editing function.
 
-![scene][1]
+<div align=center>![scene][1]
 
 ## Requirements
 
@@ -31,9 +31,7 @@ To run this project you need:
 
 After cloning this project to your local path, you can open this project in Unity and load the `start` scene.
 
-You need to create a directory for saving your sketches before starting sketching.
-
-You can also start from vrpaint scene, where you need to replace the static variables in `PlayerManager.cs` before start programming:
+You can also start from `vrpaint` scene, where you need to replace the predefined static variables in `PlayerManager.cs` to your own paths before starting programming:
 
 ```
 public static string model_dir = @"..\demo_dataset";
