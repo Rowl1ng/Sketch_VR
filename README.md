@@ -56,7 +56,7 @@ More information about development is on my blog: https://rowl1ng.com/blog/tech/
 - [3D-VR-Painting][7]
 
 
-  [1]: http://static.zybuluo.com/sixijinling/az5zki5jecwi1srrchai0939/scene.PNG
+  [1]: imgs/scene.PNG
   [4]: http://static.zybuluo.com/sixijinling/olif621bse940kc27egig9mm/D436FCE8-A98B-4E5F-BC3E-16FFE8B7AD4A_1_201_a.jpeg
   [5]: https://www.youtube.com/watch?v=eMJATZI0A7c
   [6]: https://www.youtube.com/watch?v=wysIsMEQ3_Y
